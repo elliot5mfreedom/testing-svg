@@ -1,0 +1,202 @@
+[
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "660bf085be46f7564",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/1.svg",
+        "english_meaning": "tree",
+        "dutch_meaning": "Puut"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "8e5917aa3f9402e0b",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/2.svg",
+        "english_meaning": "house",
+        "dutch_meaning": "Talo"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "7741b5ea993b08a8c",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/3.svg",
+        "english_meaning": "butterfly",
+        "dutch_meaning": "Perhonen"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "bc30c45a3a776c49d",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/4.svg",
+        "english_meaning": "rabbit",
+        "dutch_meaning": "Kani"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "f798f31fd2e5589e8",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/5.svg",
+        "english_meaning": "castle",
+        "dutch_meaning": "Linna"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "05966e28b1e5f0789",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/7.svg",
+        "english_meaning": "ship",
+        "dutch_meaning": "Laiva"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "5e8f3d8cb4f5c49aa",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/7.svg",
+        "english_meaning": "bee",
+        "dutch_meaning": "Mehiläinen"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "2c3b67614a3e02780",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/9.svg",
+        "english_meaning": "fruit",
+        "dutch_meaning": "Hedelmä"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "bef2129b55f7fe3a4",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/10.svg",
+        "english_meaning": "cow",
+        "dutch_meaning": "Lehmä"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "a5b10371ab85a1d9f",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/11.svg",
+        "english_meaning": "bird",
+        "dutch_meaning": "Lintu"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "6a0cbbd9795edbd78",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/12.svg",
+        "english_meaning": "flower",
+        "dutch_meaning": "Kukka"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "0514b678204e217d3",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/13.svg",
+        "english_meaning": "truck",
+        "dutch_meaning": "Kuorma-auto"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "9b9a00a37e72235cc",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/15.svg",
+        "english_meaning": "windmill",
+        "dutch_meaning": "Tuulimylly"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "7e9f8bf46b130132b",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/16.svg",
+        "english_meaning": "fish",
+        "dutch_meaning": "Kala"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "1f12f0f71d5b2fb61",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/17.svg",
+        "english_meaning": "mouse",
+        "dutch_meaning": "Hiiri"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "5f103885d06b70311",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/18.svg",
+        "english_meaning": "chicken",
+        "dutch_meaning": "Kana"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "246c569e9f23d73ec",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/22.svg",
+        "english_meaning": "farmer",
+        "dutch_meaning": "Maanviljelijä"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "47089204953f28eb9",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/23.svg",
+        "english_meaning": "farm",
+        "dutch_meaning": "Maatila"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "47d6d4cbad55d2cc0",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/25.svg",
+        "english_meaning": "pig",
+        "dutch_meaning": "Sika"
+    },
+    {
+        "difficulty_level": "A1",
+        "lesson_number": "20",
+        "lesson_topic": "Farm",
+        "word_id": "33e0f13fb862c55a1",
+        "de_or_het": "",
+        "word_image_url": "https://raw.githubusercontent.com/elliot5mfreedom/testing-svg/main/26.svg",
+        "english_meaning": "horse",
+        "dutch_meaning": "Hevonen"
+    }
+]
